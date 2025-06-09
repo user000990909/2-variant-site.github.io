@@ -1,2 +1,1 @@
-# 2-variant-site.github.io
-2-variant-site
+# Практика. 2 вариант
